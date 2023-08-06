@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-normal bg-grayf4 text-primaryText text-sm mx-auto leading-normal;
+    max-width: 1440px;
+  }
+  input {
+    font: inherit;
+  }
+}

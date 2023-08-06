@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Karen Eilla Boyette",
+    "first-name": "Karen",
+    "last-name": "Boyette",
+    "date": "2019-05-01",
+    "gender": "male",
+    "avatar": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1452&q=80",
+    "email": "kareneboyette@armyspy.com",
+    "phone": "1-202-555-0164",
+    "address": "Manchester",
+    "properties-count": 15,
+    "age": 26,
+    "city": "Manchester",
+    "state": "New Hampshire",
+    "zip": "03101",
+    "id": 18457,
+    "description": "Talent customers tend to earn a basic salary in the range of £15,000 to £35,000 per annum. However, talented customers also earn a commission for finding their client's work. Typically, agents receive around 10% of what the client is paid.",
+    "agent-details": {
+      "agency": "All American Real Estate",
+      "agent-license": "3124 9764 9700 234",
+      "tax-number": "TX 87D0 678H PQ45",
+      "service-area": "Chicago, Los Angeles, New York, Miami beach"
+    },
+    "agent-status": {
+      "total-listings": 15,
+      "properties-sold": 5,
+      "properties-rented": 2
+    },
+    "listing": []
+  }
+]
